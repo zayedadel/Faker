@@ -10,12 +10,12 @@ class Text extends \Faker\Provider\Text
     }
 
     /**
-     *
      * Title: ألفاظ يمنية قديمة في لهجة مخلاف شرعب المعاصرة دراسة مقارنة مع المعجم السبئي
      * Author: أ.د. عبدالله أبوالغيث
      * Language: Arabic
      *
      * @see https://wefaq.net/c/77/2939
+     *
      * @var string
      */
     protected static $baseText = <<<'EOT'
